@@ -1,0 +1,34 @@
+Inventory Bottles 100
+Inventory Rattles 50
+Inventory Diapers 200
+
+Purchase Ryan Bottles 4
+Purchase Craig Bottles 5
+Purchase Craig Diapers 20
+Purchase Craig Diapers 100
+Purchase Ryan Bottles 1
+
+
+Summarize
+
+Purchase Sue Rattles -5
+Purchase Sue Rattles 0
+
+Summarize
+Quit
+/** test4 Results should be: **/
+There are 96 Bottles, 80 Diapers and 50 Rattles in inventory
+we have had a total of 2 different customers
+Ryan has purchased the most Bottles (5)
+Craig has purchased the most Diapers (120)
+no one has purchased any Rattles
+There are 96 Bottles, 80 Diapers and 50 Rattles in inventory
+we have had a total of 2 different customers
+Ryan has purchased the most Bottles (5)
+Craig has purchased the most Diapers (120)
+no one has purchased any Rattles
+/********* end of test 4 *************/
+
+
+
+

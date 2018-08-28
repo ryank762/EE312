@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ryank762/ClionProjects/EE312/Program7/Customer.h
+String.h
+/home/ryank762/ClionProjects/EE312/Program7/String.h
+
+/home/ryank762/ClionProjects/EE312/Program7/CustomerDB.h
+String.h
+/home/ryank762/ClionProjects/EE312/Program7/String.h
+Customer.h
+/home/ryank762/ClionProjects/EE312/Program7/Customer.h
+
+/home/ryank762/ClionProjects/EE312/Program7/Project7.cpp
+iostream
+-
+stdio.h
+-
+String.h
+/home/ryank762/ClionProjects/EE312/Program7/String.h
+Customer.h
+/home/ryank762/ClionProjects/EE312/Program7/Customer.h
+CustomerDB.h
+/home/ryank762/ClionProjects/EE312/Program7/CustomerDB.h
+
+/home/ryank762/ClionProjects/EE312/Program7/String.h
+stdlib.h
+-
+stdint.h
+-
+

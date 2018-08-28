@@ -1,0 +1,120 @@
+Inventory Bottles 2147483647
+Inventory Diapers 2147483647
+Inventory Rattles 2147483647
+
+Purchase Ryan Bottles 1
+Purchase Ryan Bottles 2
+Purchase Ryan Bottles 4
+Purchase Ryan Bottles 8
+Purchase Ryan Bottles 16
+Purchase Ryan Bottles 32
+Purchase Ryan Bottles 64
+Purchase Ryan Bottles 128
+Purchase Ryan Bottles 256
+Purchase Ryan Bottles 512
+Purchase Ryan Bottles 1024
+Purchase Ryan Bottles 2048
+Purchase Ryan Bottles 4096
+Purchase Ryan Bottles 8192
+Purchase Ryan Bottles 16384
+Purchase Ryan Bottles 32768
+Purchase Ryan Bottles 65536
+Purchase Ryan Bottles 131072
+Purchase Ryan Bottles 262144
+Purchase Ryan Bottles 524288
+Purchase Ryan Bottles 1048576
+Purchase Ryan Bottles 2097152
+Purchase Ryan Bottles 4194304
+Purchase Ryan Bottles 8388608
+Purchase Ryan Bottles 16777216
+Purchase Ryan Bottles 33554432
+Purchase Ryan Bottles 67108864
+Purchase Ryan Bottles 134217728
+Purchase Ryan Bottles 268435456
+Purchase Ryan Bottles 536870912
+Purchase Ryan Bottles 1073741824
+
+Purchase Alice Diapers 1
+Purchase Alice Diapers 2
+Purchase Alice Diapers 4
+Purchase Alice Diapers 8
+Purchase Alice Diapers 16
+Purchase Alice Diapers 32
+Purchase Alice Diapers 64
+Purchase Alice Diapers 128
+Purchase Alice Diapers 256
+Purchase Alice Diapers 512
+Purchase Alice Diapers 1024
+Purchase Alice Diapers 2048
+Purchase Alice Diapers 4096
+Purchase Alice Diapers 8192
+Purchase Alice Diapers 16384
+Purchase Alice Diapers 32768
+Purchase Alice Diapers 65536
+Purchase Alice Diapers 131072
+Purchase Alice Diapers 262144
+Purchase Alice Diapers 524288
+Purchase Alice Diapers 1048576
+Purchase Alice Diapers 2097152
+Purchase Alice Diapers 4194304
+Purchase Alice Diapers 8388608
+Purchase Alice Diapers 16777216
+Purchase Alice Diapers 33554432
+Purchase Alice Diapers 67108864
+Purchase Alice Diapers 134217728
+Purchase Alice Diapers 268435456
+Purchase Alice Diapers 536870912
+Purchase Alice Diapers 1073741824
+
+Purchase Bob Rattles 1
+Purchase Bob Rattles 2
+Purchase Bob Rattles 4
+Purchase Bob Rattles 8
+Purchase Bob Rattles 16
+Purchase Bob Rattles 32
+Purchase Bob Rattles 64
+Purchase Bob Rattles 128
+Purchase Bob Rattles 256
+Purchase Bob Rattles 512
+Purchase Bob Rattles 1024
+Purchase Bob Rattles 2048
+Purchase Bob Rattles 4096
+Purchase Bob Rattles 8192
+Purchase Bob Rattles 16384
+Purchase Bob Rattles 32768
+Purchase Bob Rattles 65536
+Purchase Bob Rattles 131072
+Purchase Bob Rattles 262144
+Purchase Bob Rattles 524288
+Purchase Bob Rattles 1048576
+Purchase Bob Rattles 2097152
+Purchase Bob Rattles 4194304
+Purchase Bob Rattles 8388608
+Purchase Bob Rattles 16777216
+Purchase Bob Rattles 33554432
+Purchase Bob Rattles 67108864
+Purchase Bob Rattles 134217728
+Purchase Bob Rattles 268435456
+Purchase Bob Rattles 536870912
+Purchase Bob Rattles 1073741824
+
+Purchase Ryan Bottles 1
+Purchase Alice Diapers 1
+Purchase Bob Rattles 1
+
+Summarize
+Quit
+/** test7 Results should be: **/
+Sorry Ryan, we only have 0 Diapers
+Sorry Alice, we only have 0 Diapers
+Sorry Bob, we only have 0 Bottles
+There are 0 Bottles, 0 Diapers and 0 Rattles in inventory
+we have had a total of 3 different customers
+Ryan has purchased the most Bottles (2147483647)
+Alice has purchased the most Bottles (2147483647)
+Bob has purchased the most Bottles (2147483647)
+/********* end of test 7 *************/
+
+
+
+

@@ -1,0 +1,8 @@
+
+Quit
+/** test6 Results should be: **/
+/********* end of test 6 *************/
+
+
+
+

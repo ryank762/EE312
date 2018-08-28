@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Program0A.dir/main.cpp.o  -o Program0A 

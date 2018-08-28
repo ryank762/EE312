@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ryank762/ClionProjects/Program3/Project3.cpp
+assert.h
+-
+stdbool.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+String.h
+/home/ryank762/ClionProjects/Program3/String.h
+
+/home/ryank762/ClionProjects/Program3/String.h
+stdint.h
+-
+
+/home/ryank762/ClionProjects/Program3/main.cpp
+stdio.h
+-
+string.h
+-
+String.h
+/home/ryank762/ClionProjects/Program3/String.h
+stdlib.h
+-
+
