@@ -87,7 +87,7 @@ void capitaltest(void) {
 	printf("\n\n******* Capital Test Case *******\n");
 	char dictionary[] = "HAPPY\nhappier\nhappiest\nhappy"; // the dictionary can contain punctuation
 	char article[] = "happier happy sad HAPPIER";
-	spellCheck(article, dictionary); //should print: sad
+READM	spellCheck(article, dictionary); //should print: sad
 	printf("****DONE****\n");
 }
 

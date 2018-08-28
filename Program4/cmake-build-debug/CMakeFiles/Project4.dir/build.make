@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.3684.76/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4129.51/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.3684.76/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4129.51/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ryank762/ClionProjects/EE312/Program4
+CMAKE_SOURCE_DIR = /home/ryank762/git/EE312/Program4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug
+CMAKE_BINARY_DIR = /home/ryank762/git/EE312/Program4/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Project4.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/Project4.dir/flags.make
 
 CMakeFiles/Project4.dir/main.cpp.o: CMakeFiles/Project4.dir/flags.make
 CMakeFiles/Project4.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project4.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project4.dir/main.cpp.o -c /home/ryank762/ClionProjects/EE312/Program4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/git/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project4.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project4.dir/main.cpp.o -c /home/ryank762/git/EE312/Program4/main.cpp
 
 CMakeFiles/Project4.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project4.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/ClionProjects/EE312/Program4/main.cpp > CMakeFiles/Project4.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/git/EE312/Program4/main.cpp > CMakeFiles/Project4.dir/main.cpp.i
 
 CMakeFiles/Project4.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project4.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/ClionProjects/EE312/Program4/main.cpp -o CMakeFiles/Project4.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/git/EE312/Program4/main.cpp -o CMakeFiles/Project4.dir/main.cpp.s
 
 CMakeFiles/Project4.dir/MyString.cpp.o: CMakeFiles/Project4.dir/flags.make
 CMakeFiles/Project4.dir/MyString.cpp.o: ../MyString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project4.dir/MyString.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project4.dir/MyString.cpp.o -c /home/ryank762/ClionProjects/EE312/Program4/MyString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/git/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project4.dir/MyString.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project4.dir/MyString.cpp.o -c /home/ryank762/git/EE312/Program4/MyString.cpp
 
 CMakeFiles/Project4.dir/MyString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project4.dir/MyString.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/ClionProjects/EE312/Program4/MyString.cpp > CMakeFiles/Project4.dir/MyString.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/git/EE312/Program4/MyString.cpp > CMakeFiles/Project4.dir/MyString.cpp.i
 
 CMakeFiles/Project4.dir/MyString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project4.dir/MyString.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/ClionProjects/EE312/Program4/MyString.cpp -o CMakeFiles/Project4.dir/MyString.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/git/EE312/Program4/MyString.cpp -o CMakeFiles/Project4.dir/MyString.cpp.s
 
 CMakeFiles/Project4.dir/Project4.cpp.o: CMakeFiles/Project4.dir/flags.make
 CMakeFiles/Project4.dir/Project4.cpp.o: ../Project4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project4.dir/Project4.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project4.dir/Project4.cpp.o -c /home/ryank762/ClionProjects/EE312/Program4/Project4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/git/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project4.dir/Project4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project4.dir/Project4.cpp.o -c /home/ryank762/git/EE312/Program4/Project4.cpp
 
 CMakeFiles/Project4.dir/Project4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project4.dir/Project4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/ClionProjects/EE312/Program4/Project4.cpp > CMakeFiles/Project4.dir/Project4.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/git/EE312/Program4/Project4.cpp > CMakeFiles/Project4.dir/Project4.cpp.i
 
 CMakeFiles/Project4.dir/Project4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project4.dir/Project4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/ClionProjects/EE312/Program4/Project4.cpp -o CMakeFiles/Project4.dir/Project4.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/git/EE312/Program4/Project4.cpp -o CMakeFiles/Project4.dir/Project4.cpp.s
 
 # Object files for target Project4
 Project4_OBJECTS = \
@@ -110,7 +110,7 @@ Project4: CMakeFiles/Project4.dir/MyString.cpp.o
 Project4: CMakeFiles/Project4.dir/Project4.cpp.o
 Project4: CMakeFiles/Project4.dir/build.make
 Project4: CMakeFiles/Project4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Project4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ryank762/git/EE312/Program4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Project4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Project4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/Project4.dir/clean:
 .PHONY : CMakeFiles/Project4.dir/clean
 
 CMakeFiles/Project4.dir/depend:
-	cd /home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ryank762/ClionProjects/EE312/Program4 /home/ryank762/ClionProjects/EE312/Program4 /home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug /home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug /home/ryank762/ClionProjects/EE312/Program4/cmake-build-debug/CMakeFiles/Project4.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ryank762/git/EE312/Program4/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ryank762/git/EE312/Program4 /home/ryank762/git/EE312/Program4 /home/ryank762/git/EE312/Program4/cmake-build-debug /home/ryank762/git/EE312/Program4/cmake-build-debug /home/ryank762/git/EE312/Program4/cmake-build-debug/CMakeFiles/Project4.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Project4.dir/depend
 

@@ -1,0 +1,1 @@
+Project1.cpp contains a C program that checks for typographical errors on an article against a given dictionary.

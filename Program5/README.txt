@@ -1,0 +1,1 @@
+Project5.cpp is a program in C that creates algebraic sets and implements set operations.

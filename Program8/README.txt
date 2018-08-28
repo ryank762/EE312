@@ -1,0 +1,2 @@
+Blip.cpp, Input.cpp, and Project8.cpp are C++ programs that implement a fictional programming language (called "blip").
+Blip contains features such as initializing, evaluating, and printing a variable, using Polish notation for operations.

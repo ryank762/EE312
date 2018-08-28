@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.3684.76/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4129.51/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.3684.76/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/ryank762/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4129.51/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ryank762/ClionProjects/EE312/Program8
+CMAKE_SOURCE_DIR = /home/ryank762/git/EE312/Program8
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug
+CMAKE_BINARY_DIR = /home/ryank762/git/EE312/Program8/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Project8.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/Project8.dir/flags.make
 
 CMakeFiles/Project8.dir/main.cpp.o: CMakeFiles/Project8.dir/flags.make
 CMakeFiles/Project8.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project8.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project8.dir/main.cpp.o -c /home/ryank762/ClionProjects/EE312/Program8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/git/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project8.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project8.dir/main.cpp.o -c /home/ryank762/git/EE312/Program8/main.cpp
 
 CMakeFiles/Project8.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project8.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/ClionProjects/EE312/Program8/main.cpp > CMakeFiles/Project8.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/git/EE312/Program8/main.cpp > CMakeFiles/Project8.dir/main.cpp.i
 
 CMakeFiles/Project8.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project8.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/ClionProjects/EE312/Program8/main.cpp -o CMakeFiles/Project8.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/git/EE312/Program8/main.cpp -o CMakeFiles/Project8.dir/main.cpp.s
 
 CMakeFiles/Project8.dir/Input.cpp.o: CMakeFiles/Project8.dir/flags.make
 CMakeFiles/Project8.dir/Input.cpp.o: ../Input.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project8.dir/Input.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project8.dir/Input.cpp.o -c /home/ryank762/ClionProjects/EE312/Program8/Input.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/git/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project8.dir/Input.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project8.dir/Input.cpp.o -c /home/ryank762/git/EE312/Program8/Input.cpp
 
 CMakeFiles/Project8.dir/Input.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project8.dir/Input.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/ClionProjects/EE312/Program8/Input.cpp > CMakeFiles/Project8.dir/Input.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/git/EE312/Program8/Input.cpp > CMakeFiles/Project8.dir/Input.cpp.i
 
 CMakeFiles/Project8.dir/Input.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project8.dir/Input.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/ClionProjects/EE312/Program8/Input.cpp -o CMakeFiles/Project8.dir/Input.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/git/EE312/Program8/Input.cpp -o CMakeFiles/Project8.dir/Input.cpp.s
 
 CMakeFiles/Project8.dir/Blip.cpp.o: CMakeFiles/Project8.dir/flags.make
 CMakeFiles/Project8.dir/Blip.cpp.o: ../Blip.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project8.dir/Blip.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project8.dir/Blip.cpp.o -c /home/ryank762/ClionProjects/EE312/Program8/Blip.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ryank762/git/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project8.dir/Blip.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Project8.dir/Blip.cpp.o -c /home/ryank762/git/EE312/Program8/Blip.cpp
 
 CMakeFiles/Project8.dir/Blip.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Project8.dir/Blip.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/ClionProjects/EE312/Program8/Blip.cpp > CMakeFiles/Project8.dir/Blip.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ryank762/git/EE312/Program8/Blip.cpp > CMakeFiles/Project8.dir/Blip.cpp.i
 
 CMakeFiles/Project8.dir/Blip.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Project8.dir/Blip.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/ClionProjects/EE312/Program8/Blip.cpp -o CMakeFiles/Project8.dir/Blip.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ryank762/git/EE312/Program8/Blip.cpp -o CMakeFiles/Project8.dir/Blip.cpp.s
 
 # Object files for target Project8
 Project8_OBJECTS = \
@@ -110,7 +110,7 @@ Project8: CMakeFiles/Project8.dir/Input.cpp.o
 Project8: CMakeFiles/Project8.dir/Blip.cpp.o
 Project8: CMakeFiles/Project8.dir/build.make
 Project8: CMakeFiles/Project8.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Project8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ryank762/git/EE312/Program8/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Project8"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Project8.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/Project8.dir/clean:
 .PHONY : CMakeFiles/Project8.dir/clean
 
 CMakeFiles/Project8.dir/depend:
-	cd /home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ryank762/ClionProjects/EE312/Program8 /home/ryank762/ClionProjects/EE312/Program8 /home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug /home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug /home/ryank762/ClionProjects/EE312/Program8/cmake-build-debug/CMakeFiles/Project8.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ryank762/git/EE312/Program8/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ryank762/git/EE312/Program8 /home/ryank762/git/EE312/Program8 /home/ryank762/git/EE312/Program8/cmake-build-debug /home/ryank762/git/EE312/Program8/cmake-build-debug /home/ryank762/git/EE312/Program8/cmake-build-debug/CMakeFiles/Project8.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Project8.dir/depend
 

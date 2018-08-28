@@ -1,0 +1,2 @@
+Project6.cpp is a program in C that contains recursive functions that find the minimum element of an array, the square
+root of a double, the solution to a maze using a BFS algorithm, and the combination of minimum coins used for change.
